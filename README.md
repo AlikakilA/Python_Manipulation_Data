@@ -13,7 +13,7 @@ Les données utilisées dans ce projet sont des données sur les statistiques de
 Pour installer les librairies nécessaires à ce projet, vous pouvez utiliser la commande suivante:
 
 ```bash
-pip install pandas matplotlib numpy
+pip install -r requirements.txt
 ```
 
 ## Visualisation du rapport
